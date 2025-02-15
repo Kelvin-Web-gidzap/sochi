@@ -1,2 +1,2 @@
-# sochi
-GitHub Pages
+# dvssochi.github.io
+web project

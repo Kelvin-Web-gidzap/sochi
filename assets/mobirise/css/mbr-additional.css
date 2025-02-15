@@ -1351,23 +1351,6 @@ a {
   -khtml-user-select: none;
   -webkit-tap-highlight-color: transparent;
 }
-.cid-uifNCfOWOo {
-  padding-top: 4rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-uifNCfOWOo .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uifNCfOWOo .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
 .cid-u4NMZDFmlk {
   padding-top: 3rem;
   padding-bottom: 1rem;
